@@ -63,6 +63,10 @@ ch05/11_qwen3/Qwen3-8B
 ch05/11_qwen3/Qwen3-8B-Base
 ch05/11_qwen3/Qwen3-32B
 ch05/11_qwen3/Qwen3-32B-Base
+ch05/13_mobile-optimization/
+pkg/llms_from_scratch/mobile_lm.py
+mobile_lm_checkpoints/
+exported_models/
 
 ch06/01_main-chapter-code/gpt2
 ch06/02_bonus_additional-experiments/gpt2
